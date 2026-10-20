@@ -1,0 +1,15 @@
+package,packages,disk_mb
+next,24,352
+jest,255,55
+webpack,63,37
+vite,15,34
+typescript,2,31
+vue,23,19
+eslint,75,15
+prettier,1,10
+react-dom,3,9
+svelte,19,9
+express,65,4
+axios,27,4
+nodemon,28,3
+react,1,1
